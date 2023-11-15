@@ -40,7 +40,7 @@ E.fill(255,0,0);
   // until you are ready to export the embroidery file! 
   // Don't forget to un-comment them when you want to export!
   //
-  E.optimize(); // VERY SLOW, but essential for file output! 
+  //E.optimize(); // VERY SLOW, but essential for file output! 
   E.visualize();   // Display the embroidery path on-screen.
-  E.endDraw();  // Actually writes out the embroidery file.
+  //E.endDraw();  // Actually writes out the embroidery file.
 }
