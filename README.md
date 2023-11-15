@@ -7,6 +7,12 @@ These are the code files of each of the embriodery designs.
 These files were made using JAVA script and work within the Processessing code environment. 
 There are four designs in total that can be used in order to embrioder, each of these can be simply copy pasted into the Processesing environment. 
 
+These designs include, 
+Cherry
+Flower
+Tennis Racket
+Martini Glass With Lime
+
 In order to convert the automated Processing files into DST Embriodery files, the library PEmbrioder must be imported. Here is the link to download the PEmbrioder library inlcuding further infromation on the code library: 
 
  https://github.com/CreativeInquiry/PEmbroider
