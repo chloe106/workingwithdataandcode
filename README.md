@@ -23,11 +23,11 @@ Tennis Racket
 Martini Glass With Lime
 <img width="568" alt="Screen Shot 2023-11-15 at 11 29 30 am" src="https://github.com/chloe106/workingwithdataandcode/assets/143476961/ce9f6a38-5dab-4857-9aeb-d10551a65627">
 
+****************
+
 In order to convert the automated Processing files into DST Embriodery files, the library PEmbrioder must be imported. Here is the link to download the PEmbrioder library inlcuding further infromation on the code library: 
 
  https://github.com/CreativeInquiry/PEmbroider
-
-****************
 
 Once this code is set up, in order to allow computerised sewing the DST file must be converted into a PES file. This can be achived using a code converter, such as Filestar, linked here:
 
@@ -36,6 +36,8 @@ https://filestar.com/
 Although, any chosen file converter will work. 
 
 Now the code is ready to be uploaded into a sewing machine using a USB chord by placing the PES file into the sewing machines USB folder. 
+
+****************
 
 Happy Embriodering!
  
