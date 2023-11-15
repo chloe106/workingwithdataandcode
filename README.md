@@ -5,11 +5,11 @@
 
 These are the code files of each of the embriodery designs. 
 
-These files were made using JAVA script and work within the Processessing code environment. 
+These files were made using JAVA script and work within the Processessing V4 code environment. This can be downloaded here:
 
-There are four designs in total that can be used in order to embrioder, each of these can be simply copy pasted into the Processesing environment. 
+https://processing.org/
 
-These designs include, 
+There are four designs in total that can be used in order to embrioder, each of these can be simply copy pasted into the Processesing environment. These designs include, 
 
 Cherry
 
