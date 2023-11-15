@@ -27,6 +27,8 @@ In order to convert the automated Processing files into DST Embriodery files, th
 
  https://github.com/CreativeInquiry/PEmbroider
 
+****************
+
 Once this code is set up, in order to allow computerised sewing the DST file must be converted into a PES file. This can be achived using a code converter, such as Filestar, linked here:
 
 https://filestar.com/
